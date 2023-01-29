@@ -1,0 +1,68 @@
+.header li{
+    font-family: 'Poppins';
+    font-size: 16px;
+}
+.primary-btn-color{
+    background: #B68C5A;
+}
+.banner{
+    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%);
+    border-radius: 8px;
+    background-size: cover;
+    height: 75vh;
+}
+.banner-title{
+    font-family: 'EB Garamond';
+    font-size: 52px;
+    text-align: center;
+}
+.banner-description{
+    font-family: 'Poppins';
+    text-align: center;
+}
+.heading-title{
+    font-family: 'EB Garamond';
+    font-weight: 800;
+    font-size: 40px;
+}
+.heading-titles{
+    font-family: 'EB Garamond';
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.heading-des{
+    font-family: 'Poppins';
+}
+/* coloum styles added */
+.col-img{
+    margin-left: 35%;
+}
+.col-t{
+    font-family: 'EB Garamond';
+    color: #414040;
+    font-size: 32px;
+}
+.col-p{
+    color: #707070;
+    font-size: 16px;
+    font-family: 'Poppins';
+}
+.specials:hover{
+    background-color: #817dd9;
+    transition: all;
+}
+
+.contact-btn{
+    background: #B68C5A;
+    border-radius: 8px;
+    width: 300px;
+    height: 50px;
+}
+.vanila-p{
+    padding: 60px;
+    background: #F3F3F3;
+}
+.bg-custom-law{
+    background: #F3F3F3;
+}
